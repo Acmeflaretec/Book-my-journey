@@ -1224,11 +1224,11 @@
 
 /*** Footer Start ***/
 .footer {
-    background: var(--bs-dark);
+    background: rgb(255, 255, 255);
 }
 .footer .footer-item a {
     line-height: 30px;
-    color: var(--bs-white);
+    color: black;
     transition: 0.5s;
 }
 
@@ -1264,7 +1264,7 @@ th, td {
     border: 1px solid #ddd;
 }
 th {
-    background-color: #13357b;
+    background-color: #1fb2e6;
     color: #fff;
 }
 tr:nth-child(even) {
@@ -1286,7 +1286,7 @@ tr:nth-child(even) {
   }
   
   .stylish-table thead {
-    background-color: #13357b;
+    background-color: #1fb2e6;
     color: white;
     text-transform: uppercase;
     font-weight: bold;
